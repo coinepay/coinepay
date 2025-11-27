@@ -3,7 +3,7 @@ coinepay合规USDT变现 https://coinepay.net/#/pages/auth/register?code=S2Q3N8
 
 Coinepay是一个提供虚拟卡和实体卡服务的金融平台，主要支持Visa和Mastercard两种卡类型，专注于跨境支付和多场景消费。
 
-持有美国MSB金融牌照 MSB Registration Number: 31000301191612
+
 
 
 以下是其核心功能与特点的综合分析：
